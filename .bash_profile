@@ -1,0 +1,3 @@
+# Github API token
+export JEKYLL_GITHUB_TOKEN=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
+export SSL_CERT_FILE=/academicpages.github.io/cacert.pem
