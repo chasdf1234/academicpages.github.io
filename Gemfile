@@ -15,6 +15,7 @@ gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
 gem 'jemoji'
 gem 'jekyll-readme-index'
+gem 'jekyll-paginate
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
