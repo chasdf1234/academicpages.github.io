@@ -9,7 +9,12 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "github-pages", group: :jekyll_plugins
+gem 'jekyll'
+gem 'jekyll-feed'
+gem 'jekyll-sitemap'
+gem 'jekyll-seo-tag'
+gem 'jemoji'
+gem 'jekyll-readme-index'
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
